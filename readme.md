@@ -12,7 +12,7 @@
 
 ### Example
 
-```
+```python
 from HashDict import HashDict
 
 dic = HashDict(10)
